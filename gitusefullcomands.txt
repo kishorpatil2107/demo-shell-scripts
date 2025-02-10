@@ -1,0 +1,36 @@
+🚀 Mastering Git & GitHub: Essential Commands Every Dev Should Know! 🧑‍💻
+
+Git is an essential tool for developers, and mastering it can supercharge your workflow!
+Whether you're a beginner or a pro, these must-know Git & GitHub commands will make your life easier. ⚡
+
+👇 Save this for later & level up your version control skills! 👇
+
+🔹 Basic Git Commands
+✅ git init → Initialize a new Git repository
+✅ git clone <repo_url> → Clone an existing repo
+✅ git add . → Stage all changes
+✅ git commit -m "message" → Commit changes with a message
+✅ git push origin <branch> → Push changes to GitHub
+✅ git pull origin <branch> → Pull latest changes
+
+🔹 Branching & Merging
+🌿 git branch → List branches
+🌿 git checkout -b <new_branch> → Create & switch to a new branch
+🔀 git merge <branch> → Merge branches
+
+🔹 Undo & Reset Changes
+🚨 git reset --soft <commit> → Undo last commit (keep changes)
+🚨 git reset --hard <commit> → Undo & discard changes
+🚨 git checkout -- <file> → Revert changes in a file
+
+🔹 GitHub-Specific Commands
+🔗 git remote add origin <repo_url> → Connect to GitHub
+🔗 git push -u origin <branch> → Push branch & track upstream
+🔗 gh pr create → Create a Pull Request via GitHub CLI
+
+💡 Pro Tips:
+✔ Commit often & write meaningful messages 📝
+✔ Use .gitignore to keep your repo clean 🚀
+✔ Always git pull before making changes 🔄
+
+🔥 Which Git command do you use the most? Drop it in the comments! 👇
